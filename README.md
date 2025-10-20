@@ -1,4 +1,4 @@
-# SWG Security Tester (Cloudflare Worker)
+# SWG Security Tester
 
 A single‑file Cloudflare Worker that performs multi‑method checks against a curated set of destinations and renders a dark, lightweight UI to review results and export a PDF report.
 
