@@ -161,10 +161,6 @@ Global counters (Blocked / Allowed / Unclear) update live.
 
 * No server‑side storage; all detection and logging run in the browser.
 * Keep test targets to safe resources; this tool is intended for policy validation only.
-* For precise, Zscaler‑style signals, consider hosting canary assets with permissive CORS and stable MIME types.
+* For precise tests, consider hosting canary assets with permissive CORS and stable MIME types.
 
 ---
-
-## License
-
-MIT (or replace with your organization’s preferred license).
